@@ -1,1 +1,1 @@
-Some text inside
+Hello, here is some text inside
